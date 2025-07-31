@@ -1,0 +1,22 @@
+[1.012s] Invoking command in '/home/devika/joystick_package_extreme_3d/src/joy_pack': PYTHONPATH=/home/devika/joystick_package_extreme_3d/build/joy_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joy_pack build --build-base /home/devika/joystick_package_extreme_3d/build/joy_pack/build install --record /home/devika/joystick_package_extreme_3d/build/joy_pack/install.log --single-version-externally-managed install_data
+[1.346s] running egg_info
+[1.347s] writing ../../build/joy_pack/joy_pack.egg-info/PKG-INFO
+[1.347s] writing dependency_links to ../../build/joy_pack/joy_pack.egg-info/dependency_links.txt
+[1.348s] writing entry points to ../../build/joy_pack/joy_pack.egg-info/entry_points.txt
+[1.348s] writing requirements to ../../build/joy_pack/joy_pack.egg-info/requires.txt
+[1.348s] writing top-level names to ../../build/joy_pack/joy_pack.egg-info/top_level.txt
+[1.349s] package init file 'joy_pack/__init__.py' not found (or not a regular file)
+[1.350s] reading manifest file '../../build/joy_pack/joy_pack.egg-info/SOURCES.txt'
+[1.351s] writing manifest file '../../build/joy_pack/joy_pack.egg-info/SOURCES.txt'
+[1.351s] running build
+[1.352s] running build_py
+[1.352s] running install
+[1.352s] running install_lib
+[1.353s] running install_data
+[1.353s] running install_egg_info
+[1.355s] removing '/home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages/joy_pack-0.0.0-py3.10.egg-info' (and everything under it)
+[1.355s] Copying ../../build/joy_pack/joy_pack.egg-info to /home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages/joy_pack-0.0.0-py3.10.egg-info
+[1.357s] running install_scripts
+[1.382s] Installing joystick_serial_node script to /home/devika/joystick_package_extreme_3d/install/joy_pack/lib/joy_pack
+[1.382s] writing list of installed files to '/home/devika/joystick_package_extreme_3d/build/joy_pack/install.log'
+[1.417s] Invoked command in '/home/devika/joystick_package_extreme_3d/src/joy_pack' returned '0': PYTHONPATH=/home/devika/joystick_package_extreme_3d/build/joy_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joy_pack build --build-base /home/devika/joystick_package_extreme_3d/build/joy_pack/build install --record /home/devika/joystick_package_extreme_3d/build/joy_pack/install.log --single-version-externally-managed install_data

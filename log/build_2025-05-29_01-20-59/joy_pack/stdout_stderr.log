@@ -1,0 +1,27 @@
+running egg_info
+creating ../../build/joy_pack/joy_pack.egg-info
+writing ../../build/joy_pack/joy_pack.egg-info/PKG-INFO
+writing dependency_links to ../../build/joy_pack/joy_pack.egg-info/dependency_links.txt
+writing entry points to ../../build/joy_pack/joy_pack.egg-info/entry_points.txt
+writing requirements to ../../build/joy_pack/joy_pack.egg-info/requires.txt
+writing top-level names to ../../build/joy_pack/joy_pack.egg-info/top_level.txt
+writing manifest file '../../build/joy_pack/joy_pack.egg-info/SOURCES.txt'
+package init file 'joy_pack/__init__.py' not found (or not a regular file)
+reading manifest file '../../build/joy_pack/joy_pack.egg-info/SOURCES.txt'
+writing manifest file '../../build/joy_pack/joy_pack.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/devika/joystick_package_extreme_3d/build/joy_pack/build
+creating /home/devika/joystick_package_extreme_3d/build/joy_pack/build/lib
+creating /home/devika/joystick_package_extreme_3d/build/joy_pack/build/lib/joy_pack
+copying joy_pack/joystick_serial_node.py -> /home/devika/joystick_package_extreme_3d/build/joy_pack/build/lib/joy_pack
+running install
+running install_lib
+creating /home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages/joy_pack
+copying /home/devika/joystick_package_extreme_3d/build/joy_pack/build/lib/joy_pack/joystick_serial_node.py -> /home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages/joy_pack
+byte-compiling /home/devika/joystick_package_extreme_3d/install/joy_pack/lib/python3.10/site-packages/joy_pack/joystick_serial_node.py to joystick_serial_node.cpython-310.pyc
+running install_data
+creating /home/devika/joystick_package_extreme_3d/install/joy_pack/share/ament_index
+creating /home/devika/joystick_package_extreme_3d/install/joy_pack/share/ament_index/resource_index
+creating /home/devika/joystick_package_extreme_3d/install/joy_pack/share/ament_index/resource_index/packages
+error: can't copy 'resource/joy_pack': doesn't exist or not a regular file

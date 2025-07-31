@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+../../build/joy_pack/joy_pack.egg-info/PKG-INFO
+../../build/joy_pack/joy_pack.egg-info/SOURCES.txt
+../../build/joy_pack/joy_pack.egg-info/dependency_links.txt
+../../build/joy_pack/joy_pack.egg-info/entry_points.txt
+../../build/joy_pack/joy_pack.egg-info/requires.txt
+../../build/joy_pack/joy_pack.egg-info/top_level.txt
+../../build/joy_pack/joy_pack.egg-info/zip-safe
+joy_pack/joystick_serial_node.py
+resource/joy_pack
