@@ -1,3 +1,0 @@
-[console_scripts]
-joystick_serial_node = joy_pack.joystick_serial_node:main
-
